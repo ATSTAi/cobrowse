@@ -15,5 +15,6 @@ function SubmitForm() {
   }
   else {
     $('#SubmitModal').modal('show')
+  
   }
 }
